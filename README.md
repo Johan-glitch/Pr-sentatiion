@@ -22,8 +22,8 @@
 2. Créer une base de donnée
 3. Développer les composants d'accès
 
-# Durée de formation : 
+# Durée de formation  
 * 12 mois
 
-# Nombre d'apprenants dans la formation :
+# Nombre d'apprenants dans la formation
 * 11
