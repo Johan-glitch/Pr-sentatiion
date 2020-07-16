@@ -7,7 +7,7 @@
 * Age : 23 ans
 * Adresse  : 24bis Chemin Boulaki Appt 2 Impasse Valliemin à la Ligne Paradis 97410 Saint-Pierre
 * Nationalité : Française
-* SECTION 4
+* SECTION Développeur Web et Web Mobile
 
 ----------------------------------------------------------------------------------------------------
 
